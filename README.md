@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project focuses on handwritten digit classification using the **MNIST dataset** and neural networs. It demonstrates the fundamentals of deep learning by training a model to recognize handwritten digits from 0 to 9.
+This project focuses on handwritten digit classification using the **MNIST dataset** and neural networks. It demonstrates the fundamentals of deep learning by training a model to recognize handwritten digits from 0 to 9.
 
 The project is implemented using Python and TensorFlow/Keras in a Jupyter Notebook.
 
