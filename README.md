@@ -16,7 +16,7 @@ The project is implemented using Python and TensorFlow/Keras in a Jupyter Notebo
 
 ## 🛠️ Technologies Used
 
-- **Python** – Prgramming language
+- **Python** – Programming language
 - **TensorFlow / Keras** – Neural network implementation
 - **NumPy** – Numerical computations
 - **Matplotlib** – Data visualization
