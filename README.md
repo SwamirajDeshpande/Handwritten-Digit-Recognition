@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition Using Neural Networks
+# 🔢 Handwritten Digit Recognition Using Neural Networks
 
 ## 📌 Overview
 
