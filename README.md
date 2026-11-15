@@ -119,7 +119,7 @@ The model is designed to learn patterns in handwritten digit images and classify
 
 **Swamiraj Deshpande**
 
-Computer Science and Engineering (AI & ML)
+Second-year B.Tech Computer Science and Engineering (AI & ML)
 
 ---
 
