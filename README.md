@@ -121,6 +121,7 @@ The model is designed to learn patterns in handwritten digit images and classify
 
 Second-year B.Tech Computer Science and Engineering (AI & ML)
 
+Vishwakarma Institute of Technology, Pune
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
