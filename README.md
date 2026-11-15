@@ -117,7 +117,7 @@ The model is designed to learn patterns in handwritten digit images and classify
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Swamiraj**
 
 Computer Science and Engineering (AI & ML)
 
